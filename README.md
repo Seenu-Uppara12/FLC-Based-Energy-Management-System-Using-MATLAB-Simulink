@@ -1,4 +1,4 @@
-<img width="753" height="527" alt="Screenshot 2026-01-31 114346" src="https://github.com/user-attachments/assets/2ba9d69c-dc49-4930-9874-1bed9d7bc275" />
+
 # FLC-Based Energy Management System Using MATLAB/Simulink
 
 ## 📌 Project Overview
